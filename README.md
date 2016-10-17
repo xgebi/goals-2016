@@ -20,7 +20,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 ## Things I'll Do This Week:
 - [ ] Write a blog post about ng2-graphs
 - [ ] Write one personal post
-- [ ] Buy new sketchbook
+- [*] Buy new sketchbook
 
 ### Things I'll Do This Month: October 2016
 - [ ] Finish *Zeit zu Leben. Zeit zu Sterben*
