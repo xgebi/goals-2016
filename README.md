@@ -24,9 +24,9 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 ### Things I'll Do This Month: October 2016
 - [ ] Finish *Zeit zu Leben. Zeit zu Sterben*
-- [ ] Go to multiday event at work
+- [x] Go to multiday event at work
 - [ ] Find place to live in Prague
-- [ ] Finish sketchbook
+- [x] Finish sketchbook
 
 ### Backlog:
 - [ ] Learn unit testing in JavaScript
