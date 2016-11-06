@@ -29,12 +29,12 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 ### This Week's Goal: Be Awesome.
 
 ## Things I'll Do This Week:
-- [ ] Write a blog post about ng2-graphs
-- [ ] Write one personal post
+- [ ] ~~Write a blog post about ng2-graphs~~
+- [ ] ~~Write one personal post~~
 - [x] Buy new sketchbook
 
 ### Things I'll Do This Month: October 2016
-- [ ] Finish *Zeit zu Leben. Zeit zu Sterben*
+- [ ] ~~Finish *Zeit zu Leben. Zeit zu Sterben*~~
 - [x] Go to multiday event at work
 - [x] Find place to live in Prague
 - [x] Finish sketchbook
