@@ -36,8 +36,17 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 ### Things I'll Do This Month: October 2016
 - [ ] Finish *Zeit zu Leben. Zeit zu Sterben*
 - [x] Go to multiday event at work
-- [ ] Find place to live in Prague
+- [x] Find place to live in Prague
 - [x] Finish sketchbook
+
+# November 7, 2016
+
+### This Week's Goal: Recover mental strength and Draw
+
+## Things I'll Do This Week:
+- [ ] UI kit
+- [ ] One book
+- [ ] Buy a drying rack
 
 ### Backlog:
 - [ ] Learn unit testing in JavaScript
