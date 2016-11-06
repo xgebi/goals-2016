@@ -18,11 +18,11 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 ### This Week's Goal: Fight The Docs
 
 ## Things I'll Do This Week:
-[ ] Find place to live in Prague
-[ ] Write one personal post
-[ ] Write one coding post
-[ ] Post 5 drawings on my instagram/tumblr account
-[ ] Finish Le Petit Prince
+- [x] Find place to live in Prague
+- [ ] ~~Write one personal post~~
+- [ ] ~~Write one coding post~~
+- [ ] ~~Post 5 drawings on my instagram/tumblr account~~
+- [ ] ~~Finish Le Petit Prince~~
 
 # October 17, 2016
 
