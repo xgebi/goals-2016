@@ -13,6 +13,15 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 5. Learn about pencil drawing techniques
 6. Be kind
 
+# November 7, 2016
+
+### This Week's Goal: Recover mental strength and Draw
+
+## Things I'll Do This Week:
+- [ ] UI kit
+- [ ] One book
+- [ ] Buy a drying rack
+
 # October 24, 2016
 
 ### This Week's Goal: Fight The Docs
@@ -38,15 +47,6 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [x] Go to multiday event at work
 - [x] Find place to live in Prague
 - [x] Finish sketchbook
-
-# November 7, 2016
-
-### This Week's Goal: Recover mental strength and Draw
-
-## Things I'll Do This Week:
-- [ ] UI kit
-- [ ] One book
-- [ ] Buy a drying rack
 
 ### Backlog:
 - [ ] Learn unit testing in JavaScript
